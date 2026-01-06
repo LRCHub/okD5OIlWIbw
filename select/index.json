@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tell Me How It Goes",
+  "base_artist": "Kohjiya",
+  "createdAt": "2026-01-06T04:35:48.830244Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Me How It Goes",
+      "artist": "Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Me_How_It_Goes_Kohjiya.txt"
+    }
+  ]
+}
